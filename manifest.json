@@ -1,10 +1,10 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "Tab Finder",
+  "description": "See tabs for the song you are listening to :D",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "hello_extensions.png"
+    "default_icon": "icon.png"
   }
 }
